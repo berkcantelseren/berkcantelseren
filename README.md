@@ -1,8 +1,10 @@
 # 💻 Berkcan Telseren
 
-**`Frontend Developer (Web3/Bookworm)`**
+**`Frontend Developer ( Web3 / Bookworm )`**
 
-Hi! I am an intermediate level front-end developer with a degree in computer programming. Trying to improve myself and learn new things everyday. My goal is becoming a master at JS and React. Currently learning { Solidity / React / Node.js / Web3.js }
+Hi! I am an intermediate level front-end developer with a degree in computer programming. Trying to improve myself and learn new things everyday. My goal is becoming a master at JS and React.
+
+Currently learning { Solidity / React / Node.js / Web3.js }
 
 ---
 
@@ -19,4 +21,12 @@ Hi! I am an intermediate level front-end developer with a degree in computer pro
 <br />
 
 #
+
+My journey started about 4 years ago. I have always had an interest in coding and one day I decided to research about web development and everything changed. Now I have learned a lot in the last 4 years and I plan to continue to improve what I have learned.
+
+#
+
+<details>
+ <summary><h3> 🚙 My Coding Journey</h3></summary>
+   My journey started about 4 years ago. I have always had an interest in coding and one day I decided to research about web development and everything changed. Now I have learned a lot in the last 4 years and I plan to continue to improve what I have learned.
 
