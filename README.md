@@ -4,7 +4,7 @@
 
 Hi! I am an intermediate level front-end developer with a degree in computer programming. Trying to improve myself and learn new things everyday. My goal is becoming a master at JS and React.
 
-Currently learning { Solidity / React / Node.js / Web3.js }
+Currently learning { Rust / React / Node.js / Web3.js }
 
 ---
 
